@@ -10,7 +10,7 @@ The repository is organised into three main sections: PCB design files, programm
 ## Repository Structure
 
 ```text
-.
+
 ├── PCB_Design/
 │   ├── Main_EIP_Readout_PCB/
 │   └── Tunable_Bandpass_Filter_PCB/
